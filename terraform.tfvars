@@ -1,0 +1,8 @@
+project_id = "bjbdevelopment"
+credentials_file_path = "./service-account-credentials.json"
+region                = "asia-southeast2"
+main_zone             = "asia-southeast2-a"
+zone                  = "asia-southeast2-a"
+network_name          = "kubernetes-cluster"
+subnet_name           = "kubernetes-cluster--subnet"
+bastion_name          = "host"
