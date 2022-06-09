@@ -14,7 +14,7 @@ Go to https://console.cloud.google.com/identity/serviceaccounts and create a ser
 
 **Note : For more information, you can check example folder.**
 
-## AWS versions
+## GCP versions
 
 GCP 3.51.0       
 ## Resources
