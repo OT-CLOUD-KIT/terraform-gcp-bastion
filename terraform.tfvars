@@ -1,0 +1,7 @@
+project_id = "opstree-345811"
+credentials_file_path = "./service-account-credentials.json"
+region                = "europe-north-1"
+zone                  = "europe-north1-a"
+network_name          = "kubernetes-cluster"
+subnet_name           = "kubernetes-cluster-subnet"
+bastion_name          = "host"
